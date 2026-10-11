@@ -32,10 +32,6 @@
     "url": "https://raw.githubusercontent.com/microintel/mf-logos/main/images/bajaj-finserv-mutual-fund.png"
   },
   {
-    "name": "Bandhan Idfc Mutual Fund",
-    "url": "https://raw.githubusercontent.com/microintel/mf-logos/main/images/bandhan-mutual-fund-idfc.png"
-  },
-  {
     "name": "Bandhan Mutual Fund",
     "url": "https://raw.githubusercontent.com/microintel/mf-logos/main/images/bandhan-mutual-fund.png"
   },
@@ -132,6 +128,10 @@
     "url": "https://raw.githubusercontent.com/microintel/mf-logos/main/images/motilal-oswal-mutual-fund.png"
   },
   {
+    "name": "Navi Mutual Fund",
+    "url": "https://raw.githubusercontent.com/microintel/mf-logos/main/images/navi-mutual-fund.png"
+  },
+  {
     "name": "Nippon India Mutual Fund",
     "url": "https://raw.githubusercontent.com/microintel/mf-logos/main/images/nippon-india-mutual-fund.png"
   },
@@ -144,16 +144,16 @@
     "url": "https://raw.githubusercontent.com/microintel/mf-logos/main/images/old-bridge-mutual-fund.png"
   },
   {
-    "name": "Peerless Mutual Fund",
-    "url": "https://raw.githubusercontent.com/microintel/mf-logos/main/images/peerless-mutual-fund.png"
-  },
-  {
     "name": "PGIM India Mutual Fund",
     "url": "https://raw.githubusercontent.com/microintel/mf-logos/main/images/pgim-india-mutual-fund.png"
   },
   {
     "name": "PPFAS Mutual Fund",
     "url": "https://raw.githubusercontent.com/microintel/mf-logos/main/images/ppfas-mutual-fund.png"
+  },
+  {
+    "name": "Quant Mutual Fund",
+    "url": "https://raw.githubusercontent.com/microintel/mf-logos/main/images/quant-mutual-fund.png"
   },
   {
     "name": "Quantum Mutual Fund",
