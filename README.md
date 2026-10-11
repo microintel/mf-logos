@@ -12,7 +12,7 @@ A public directory of mutual fund logos with searchable HTML index and reusable 
 After pushing to the `main` branch:
 - Service JSON: `https://raw.githubusercontent.com/microintel/mf-logos/main/service.json`
 - Simple array: `https://raw.githubusercontent.com/microintel/mf-logos/main/mf-logos.json`
-- GitHub Pages index (after enabling Pages): `https://microintel.github.io/mf-logos/`
+- live link `https://microintel.github.io/mf-logos/`
 
 ## JSON structure
 `service.json`:
